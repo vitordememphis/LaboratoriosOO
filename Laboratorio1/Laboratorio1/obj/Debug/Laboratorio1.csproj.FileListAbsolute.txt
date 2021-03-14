@@ -1,0 +1,7 @@
+C:\Users\vitor\Desktop\Jogos Digitais\semestre 1_2021\GitPasta\Laboratorio1\Laboratorio1\bin\Debug\Laboratorio1.exe.config
+C:\Users\vitor\Desktop\Jogos Digitais\semestre 1_2021\GitPasta\Laboratorio1\Laboratorio1\bin\Debug\Laboratorio1.exe
+C:\Users\vitor\Desktop\Jogos Digitais\semestre 1_2021\GitPasta\Laboratorio1\Laboratorio1\bin\Debug\Laboratorio1.pdb
+C:\Users\vitor\Desktop\Jogos Digitais\semestre 1_2021\GitPasta\Laboratorio1\Laboratorio1\obj\Debug\Laboratorio1.csprojAssemblyReference.cache
+C:\Users\vitor\Desktop\Jogos Digitais\semestre 1_2021\GitPasta\Laboratorio1\Laboratorio1\obj\Debug\Laboratorio1.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\Jogos Digitais\semestre 1_2021\GitPasta\Laboratorio1\Laboratorio1\obj\Debug\Laboratorio1.exe
+C:\Users\vitor\Desktop\Jogos Digitais\semestre 1_2021\GitPasta\Laboratorio1\Laboratorio1\obj\Debug\Laboratorio1.pdb
