@@ -12,10 +12,10 @@ namespace Laboratorio02
         string id;
         string tipoConta;
         double saldo;
-        public string Nome { get; set; }
-        public string Id { get; set; }
-        public string TipoConta { get; set; }
-        public double Saldo { get; set; }
+        public string Nome { get; protected set; }
+        public string Id { get; protected set; }
+        public string TipoConta { get; protected set; }
+        public double Saldo { get; protected set; }
 
         public void Depositar(double deposito)
         {
