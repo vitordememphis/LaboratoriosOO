@@ -1,0 +1,7 @@
+C:\Users\vitor\Desktop\Jogos Digitais\semestre 1_2021\Orientação à objetos\ListaExercicios3\ListaExercicios3\ListaExercicios3\bin\Debug\ListaExercicios3.exe.config
+C:\Users\vitor\Desktop\Jogos Digitais\semestre 1_2021\Orientação à objetos\ListaExercicios3\ListaExercicios3\ListaExercicios3\bin\Debug\ListaExercicios3.exe
+C:\Users\vitor\Desktop\Jogos Digitais\semestre 1_2021\Orientação à objetos\ListaExercicios3\ListaExercicios3\ListaExercicios3\bin\Debug\ListaExercicios3.pdb
+C:\Users\vitor\Desktop\Jogos Digitais\semestre 1_2021\Orientação à objetos\ListaExercicios3\ListaExercicios3\ListaExercicios3\obj\Debug\ListaExercicios3.csprojAssemblyReference.cache
+C:\Users\vitor\Desktop\Jogos Digitais\semestre 1_2021\Orientação à objetos\ListaExercicios3\ListaExercicios3\ListaExercicios3\obj\Debug\ListaExercicios3.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\Jogos Digitais\semestre 1_2021\Orientação à objetos\ListaExercicios3\ListaExercicios3\ListaExercicios3\obj\Debug\ListaExercicios3.exe
+C:\Users\vitor\Desktop\Jogos Digitais\semestre 1_2021\Orientação à objetos\ListaExercicios3\ListaExercicios3\ListaExercicios3\obj\Debug\ListaExercicios3.pdb
